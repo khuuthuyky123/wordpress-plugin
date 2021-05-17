@@ -1,0 +1,21 @@
+# Dependencies and testing
+/vendor
+/tests/environment/vendor
+/tests/environment/app/Widgets
+/tests/environment/app/Controllers
+/tests/environment/app/Models
+/tests/environment/app/Config
+/tests/environment/assets/views/
+/tests/environment/app/Main.php
+/tests/environment/composer.json
+/tests/environment/package.json
+/tests/environment/composer.lock
+/tests/environment/style.css
+composer.lock
+debug.log
+
+# PHPUnit
+.phpunit.result.cache
+
+# Tmp
+.DS_Store
